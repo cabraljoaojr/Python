@@ -1,0 +1,33 @@
+-- REMOVENDO A TABELA SE ELA JÁ EXISTIR
+DROP TABLE IF EXISTS educacao.GES_SERIE;
+
+-- CRIANDO A TABELA DE GESTÃO ESCOLAR
+CREATE TABLE educacao.GES_SERIE
+(
+    id serial NOT NULL UNIQUE	, -- DEFININDO A PRIMARY KEY
+    nome character varying(100) NOT NULL,
+    numero INTEGER NOT NULL,
+    CONSTRAINT pk_ges_serie_id PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS educacao.GES_SERIE
+    OWNER to postgres;
+
+COMMENT ON TABLE educacao.GES_SERIE
+    IS 'Tabela Gestão Escolar - Info series';
+	
+	
+-- INSERINDO O REGISTRO DE SERIES
+INSERT INTO educacao.GES_SERIE (nome, numero)
+VALUES
+('PRIMEIRO ANO',1), 
+('SEGUNDO ANO',2), 
+('TERCEIRO ANO',3),
+('QUARTO ANO',4), 
+('QUINTO ANO',5), 
+('SEXTO ANO',6), 
+('SETIMO ANO',7),
+('OITAVO ANO',8),
+('NONO ANO',9);

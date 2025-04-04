@@ -1,0 +1,29 @@
+-- REMOVENDO A TABELA SE ELA JÁ EXISTIR
+DROP TABLE IF EXISTS educacao.TDC_ESCOLA;
+
+-- CRIANDO A TABELA DE DADOS COMUNS
+CREATE TABLE educacao.TDC_ESCOLA
+(
+    id serial NOT NULL UNIQUE	, -- DEFININDO A PRIMARY KEY
+    nome character varying(100) NOT NULL,
+    endereco character varying(300) NOT NULL,
+    CONSTRAINT pk_tdc_escola_id PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS educacao.TDC_ESCOLA
+    OWNER to postgres;
+
+COMMENT ON TABLE educacao.TDC_ESCOLA
+    IS 'Tabela de dados comum - Info escolas';
+	
+	
+-- INSERINDO O REGISTRO DE ESCOLAS
+INSERT INTO educacao.TDC_ESCOLA (nome, endereco)
+VALUES
+('EMEF MARIA VERONICA', 'R. Newton Viêira Novaes, 191 - Bosque dos Eucaliptos, São José dos Campos - SP, 12233-100'), 
+('EMEF PEDRO BONIFACIO', 'R. Hidra, 50 - Jardim da Granja, São José dos Campos - SP, 12227-390'), 
+('EMEF EVERARDO PESSOA', 'Av. Barão do Rio Branco - Jardim Esplanada, São José dos Campos - SP, 12242-800'), 
+('EMEF PAMELA SANTANA', 'R. Prof. Felício Savastano, 114 - Vila Industrial, São José dos Campos - SP, 12220-270'), 
+('EMEF DIVAIL SANTOS','Av. Domingos Maldonado Campoy, 323 - Parque Res. Flamboyant, São José dos Campos - SP, 12227-801'); 

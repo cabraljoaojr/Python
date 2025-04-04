@@ -1,0 +1,60 @@
+-- REMOVENDO A TABELA SE ELA JÁ EXISTIR
+DROP TABLE IF EXISTS educacao.GES_ALUNO_TURMA;
+
+-- CRIANDO A TABELA DE GESTÃO ESCOLAR
+CREATE TABLE educacao.GES_ALUNO_TURMA
+(
+    id serial NOT NULL UNIQUE	, -- DEFININDO A PRIMARY KEY
+    ges_turma_id integer NOT NULL,
+    ges_aluno_id integer NOT NULL,
+	numero_tumra interger NOT NULL,
+	ano_letivo interger NOT NULL,
+    CONSTRAINT pk_ges_aluno_turma_id PRIMARY KEY (id),
+    CONSTRAINT "FK_GES_ALUNO_TURMA_GES_TURMA_ID" FOREIGN KEY (ges_turma_id)
+        REFERENCES educacao.ges_turma (id) MATCH SIMPLE
+        ON UPDATE RESTRICT
+        ON DELETE RESTRICT
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS educacao.GES_ALUNO_TURMA
+    OWNER to postgres;
+
+COMMENT ON TABLE educacao.GES_ALUNO_TURMA
+    IS 'Tabela Gestão Escolar - Info alunos nas turmas';
+	
+	
+	-- INSERINDO O REGISTRO DE ALUNOS EM TURMAS
+
+	-- Criação de alunos ficticios para alunos e associação às turmas
+INSERT INTO educacao.GES_ALUNO_TURMA (ges_turma_id, ges_aluno_id, numero_turma, ano_letivo)
+WITH
+	-- gerar 30 alunos fictícios para cada turma
+	alunos AS(
+		SELECT 
+			generate_series AS aluno_id 
+		FROM 
+			GENERATE_SERIES(1, 30)
+	),
+	-- Associar alunos às turmas
+	turma_aluno AS (
+	  SELECT
+			t.id as turma_id,
+			a.aluno_id,
+			ROW_NUMBER() OVER(PARTITION BY t.id order by a.aluno_id) AS numero_turma
+		FROM
+			educacao.GES_TURMA t 
+		CROSS JOIN
+			alunos a
+	)
+SELECT
+	-- Gerar um ID único paraa cada registro
+	ta.turma_id AS ges_turma_id,
+	ta.aluno_id AS ges_aluno_id,
+	ta.numero_turma AS numero_turma,
+	2025 AS ano_letivo
+FROM
+	turma_aluno ta
+ORDER BY
+	ta.turma_id, ta.aluno_id;

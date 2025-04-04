@@ -1,0 +1,1720 @@
+
+*****************************************
+Sisca - Sistema de Correção Automatizada
+Instituto de Computação - Unicamp
+*****************************************
+Relatório de Correção
+Referência: 6 EMEF EVERARDO PESSOA
+Data: 18/02/2024 08:36:54
+*****************************************
+
+
+FOLHA: 1
+IDENT.: 036101
+RESPOSTAS CORRETAS: 8
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  E
+10. C
+
+--------------------------
+
+FOLHA: 2
+IDENT.: 036102
+RESPOSTAS CORRETAS: 2
+
+Respostas (+ indica resposta correta):
+
+1.  B
+2.  E
+3.  A
+4.  A
+5.  E
+6.  A
+7.  A
+8.  A +
+9.  E
+10. A +
+
+--------------------------
+
+FOLHA: 3
+IDENT.: 036103
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  E
+10. A +
+
+--------------------------
+
+FOLHA: 4
+IDENT.: 036104
+RESPOSTAS CORRETAS: 2
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  E
+3.  C
+4.  B
+5.  D
+6.  A
+7.  D
+8.  C
+9.  B
+10. A +
+
+--------------------------
+
+FOLHA: 5
+IDENT.: 036105
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  C
+4.  E +
+5.  A +
+6.  B
+7.  C +
+8.  E
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 6
+IDENT.: 036106
+RESPOSTAS CORRETAS: 8
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  C
+4.  E +
+5.  A +
+6.  E
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 7
+IDENT.: 036107
+RESPOSTAS CORRETAS: 4
+
+Respostas (+ indica resposta correta):
+
+1.  E
+2.  D +
+3.  C
+4.  D
+5.  A +
+6.  E
+7.  E
+8.  A +
+9.  D
+10. A +
+
+--------------------------
+
+FOLHA: 8
+IDENT.: 036108
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  E
+4.  E +
+5.  A +
+6.  C
+7.  C +
+8.  A +
+9.  E
+10. A +
+
+--------------------------
+
+FOLHA: 9
+IDENT.: 036109
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  D
+10. A +
+
+--------------------------
+
+FOLHA: 10
+IDENT.: 036110
+RESPOSTAS CORRETAS: 4
+
+Respostas (+ indica resposta correta):
+
+1.  A
+2.  D +
+3.  C
+4.  D
+5.  D
+6.  E
+7.  C +
+8.  A +
+9.  A
+10. A +
+
+--------------------------
+
+FOLHA: 11
+IDENT.: 036111
+RESPOSTAS CORRETAS: 8
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  B
+6.  A
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 12
+IDENT.: 036112
+RESPOSTAS CORRETAS: 8
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  B
+3.  B +
+4.  B
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 13
+IDENT.: 036113
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  A
+4.  D
+5.  A +
+6.  E
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 14
+IDENT.: 036114
+RESPOSTAS CORRETAS: 8
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  C
+5.  A +
+6.  B
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 15
+IDENT.: 036115
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  B
+3.  B +
+4.  D
+5.  A +
+6.  E
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 16
+IDENT.: 036116
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  C
+4.  D
+5.  A +
+6.  E
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 17
+IDENT.: 036117
+RESPOSTAS CORRETAS: 3
+
+Respostas (+ indica resposta correta):
+
+1.  A
+2.  A
+3.  A
+4.  A
+5.  A +
+6.  A
+7.  A
+8.  A +
+9.  A
+10. A +
+
+--------------------------
+
+FOLHA: 18
+IDENT.: 036118
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  B
+5.  A +
+6.  E
+7.  C +
+8.  E
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 19
+IDENT.: 036119
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 20
+IDENT.: 036120
+RESPOSTAS CORRETAS: 6
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  E
+3.  C
+4.  D
+5.  A +
+6.  C
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 21
+IDENT.: 036121
+RESPOSTAS CORRETAS: 2
+
+Respostas (+ indica resposta correta):
+
+1.  E
+2.  E
+3.  C
+4.  D
+5.  B
+6.  B
+7.  A
+8.  B
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 22
+IDENT.: 22
+RESPOSTAS CORRETAS: 4
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  E
+3.  B +
+4.  D
+5.  D
+6.  D +
+7.  B
+8.  C
+9.  B
+10. A +
+
+--------------------------
+
+FOLHA: 23
+IDENT.: 036123
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 24
+IDENT.: 036124
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 25
+IDENT.: 036125
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  D
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 26
+IDENT.: 036126
+RESPOSTAS CORRETAS: 0
+
+Respostas (+ indica resposta correta):
+
+1.  Resposta inválida
+2.  Resposta inválida
+3.  Resposta inválida
+4.  Resposta inválida
+5.  Resposta inválida
+6.  Resposta inválida
+7.  Resposta inválida
+8.  Resposta inválida
+9.  Resposta inválida
+10. Resposta inválida
+
+--------------------------
+
+FOLHA: 27
+IDENT.: 036127
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  B
+6.  C
+7.  C +
+8.  A +
+9.  A
+10. A +
+
+--------------------------
+
+FOLHA: 28
+IDENT.: 036128
+RESPOSTAS CORRETAS: 6
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  E
+3.  C
+4.  A
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  E
+10. A +
+
+--------------------------
+
+FOLHA: 29
+IDENT.: 036129
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  B
+5.  A +
+6.  E
+7.  C +
+8.  E
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 30
+IDENT.: 036130
+RESPOSTAS CORRETAS: 6
+
+Respostas (+ indica resposta correta):
+
+1.  E
+2.  D +
+3.  B +
+4.  E +
+5.  C
+6.  D +
+7.  A
+8.  A +
+9.  C +
+10. D
+
+--------------------------
+
+FOLHA: 1
+IDENT.: 036201
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  D
+10. A +
+
+--------------------------
+
+FOLHA: 2
+IDENT.: 036202
+RESPOSTAS CORRETAS: 6
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  A
+4.  B
+5.  A +
+6.  D +
+7.  D
+8.  A +
+9.  D
+10. A +
+
+--------------------------
+
+FOLHA: 3
+IDENT.: 036203
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 4
+IDENT.: 036204
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 5
+IDENT.: 036205
+RESPOSTAS CORRETAS: 3
+
+Respostas (+ indica resposta correta):
+
+1.  B
+2.  B
+3.  D
+4.  C
+5.  E
+6.  E
+7.  E
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 6
+IDENT.: 036206
+RESPOSTAS CORRETAS: 6
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  E
+4.  C
+5.  D
+6.  E
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 7
+IDENT.: 036207
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. E
+
+--------------------------
+
+FOLHA: 8
+IDENT.: 036208
+RESPOSTAS CORRETAS: 3
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  B
+5.  D
+6.  E
+7.  E
+8.  E
+9.  A
+10. E
+
+--------------------------
+
+FOLHA: 9
+IDENT.: 036209
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  C
+5.  A +
+6.  E
+7.  B
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 10
+IDENT.: 036210
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 11
+IDENT.: 036211
+RESPOSTAS CORRETAS: 3
+
+Respostas (+ indica resposta correta):
+
+1.  D
+2.  E
+3.  B +
+4.  C
+5.  A +
+6.  E
+7.  A
+8.  B
+9.  A
+10. A +
+
+--------------------------
+
+FOLHA: 12
+IDENT.: 036212
+RESPOSTAS CORRETAS: 8
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  C
+6.  E
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 13
+IDENT.: 036213
+RESPOSTAS CORRETAS: 5
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  E
+3.  A
+4.  E +
+5.  B
+6.  D +
+7.  A
+8.  A +
+9.  C +
+10. E
+
+--------------------------
+
+FOLHA: 14
+IDENT.: 036214
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  E
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 15
+IDENT.: 036215
+RESPOSTAS CORRETAS: 3
+
+Respostas (+ indica resposta correta):
+
+1.  B
+2.  E
+3.  A
+4.  C
+5.  A +
+6.  B
+7.  A
+8.  A +
+9.  A
+10. A +
+
+--------------------------
+
+FOLHA: 16
+IDENT.: 036216
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  C
+4.  D
+5.  A +
+6.  B
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 17
+IDENT.: 036217
+RESPOSTAS CORRETAS: 0
+
+Respostas (+ indica resposta correta):
+
+1.  Resposta inválida
+2.  Resposta inválida
+3.  Resposta inválida
+4.  Resposta inválida
+5.  Resposta inválida
+6.  Resposta inválida
+7.  Resposta inválida
+8.  Resposta inválida
+9.  Resposta inválida
+10. Resposta inválida
+
+--------------------------
+
+FOLHA: 18
+IDENT.: 036218
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. C
+
+--------------------------
+
+FOLHA: 19
+IDENT.: 036219
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 20
+IDENT.: 036220
+RESPOSTAS CORRETAS: 6
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  E
+4.  C
+5.  A +
+6.  C
+7.  C +
+8.  A +
+9.  E
+10. A +
+
+--------------------------
+
+FOLHA: 21
+IDENT.: 036221
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  B
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 22
+IDENT.: 036222
+RESPOSTAS CORRETAS: 3
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  E
+3.  B +
+4.  C
+5.  B
+6.  E
+7.  E
+8.  A +
+9.  D
+10. B
+
+--------------------------
+
+FOLHA: 23
+IDENT.: 036223
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  A
+4.  E +
+5.  A +
+6.  C
+7.  C +
+8.  A +
+9.  C +
+10. E
+
+--------------------------
+
+FOLHA: 24
+IDENT.: 036224
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  B
+5.  A +
+6.  B
+7.  C +
+8.  A +
+9.  C +
+10. B
+
+--------------------------
+
+FOLHA: 25
+IDENT.: 036225
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  B
+6.  E
+7.  C +
+8.  A +
+9.  D
+10. A +
+
+--------------------------
+
+FOLHA: 26
+IDENT.: 036226
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 27
+IDENT.: 036227
+RESPOSTAS CORRETAS: 3
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  E
+3.  A
+4.  E +
+5.  A +
+6.  E
+7.  D
+8.  E
+9.  A
+10. C
+
+--------------------------
+
+FOLHA: 28
+IDENT.: 036228
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  C
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 29
+IDENT.: 036229
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  E
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 30
+IDENT.: 036230
+RESPOSTAS CORRETAS: 5
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  E
+3.  D
+4.  B
+5.  A +
+6.  E
+7.  C +
+8.  B
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 1
+IDENT.: 036301
+RESPOSTAS CORRETAS: 5
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  C
+4.  C
+5.  C
+6.  E
+7.  C +
+8.  A +
+9.  A
+10. A +
+
+--------------------------
+
+FOLHA: 2
+IDENT.: 036302
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  C
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 3
+IDENT.: 036303
+RESPOSTAS CORRETAS: 4
+
+Respostas (+ indica resposta correta):
+
+1.  B
+2.  E
+3.  A
+4.  C
+5.  C
+6.  E
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 4
+IDENT.: 036304
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  D
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 5
+IDENT.: 036305
+RESPOSTAS CORRETAS: 8
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  B
+5.  A +
+6.  C
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 6
+IDENT.: 036306
+RESPOSTAS CORRETAS: 6
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  E
+3.  B +
+4.  A
+5.  A +
+6.  B
+7.  E
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 7
+IDENT.: 036307
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 8
+IDENT.: 036308
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  E
+3.  D
+4.  E +
+5.  A +
+6.  E
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 9
+IDENT.: 036309
+RESPOSTAS CORRETAS: 8
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  E
+4.  E +
+5.  A +
+6.  E
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 10
+IDENT.: 036310
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 11
+IDENT.: 036311
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  E
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 12
+IDENT.: 036312
+RESPOSTAS CORRETAS: 4
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  E
+3.  D
+4.  D
+5.  A +
+6.  E
+7.  A
+8.  A +
+9.  B
+10. A +
+
+--------------------------
+
+FOLHA: 13
+IDENT.: 036313
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 14
+IDENT.: 036314
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  A
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 15
+IDENT.: 036315
+RESPOSTAS CORRETAS: 8
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  E
+3.  B +
+4.  E +
+5.  A +
+6.  E
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 16
+IDENT.: 036316
+RESPOSTAS CORRETAS: 5
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  A
+4.  C
+5.  B
+6.  E
+7.  A
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 17
+IDENT.: 036317
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  E
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 18
+IDENT.: 036318
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 19
+IDENT.: 036319
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 20
+IDENT.: 036320
+RESPOSTAS CORRETAS: 7
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  C
+4.  A
+5.  B
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 21
+IDENT.: 036321
+RESPOSTAS CORRETAS: 2
+
+Respostas (+ indica resposta correta):
+
+1.  A
+2.  E
+3.  B +
+4.  C
+5.  B
+6.  A
+7.  A
+8.  C
+9.  A
+10. A +
+
+--------------------------
+
+FOLHA: 22
+IDENT.: 036322
+RESPOSTAS CORRETAS: 0
+
+Respostas (+ indica resposta correta):
+
+1.  Resposta inválida
+2.  Resposta inválida
+3.  Resposta inválida
+4.  Resposta inválida
+5.  Resposta inválida
+6.  Resposta inválida
+7.  Resposta inválida
+8.  Resposta inválida
+9.  Resposta inválida
+10. Resposta inválida
+
+--------------------------
+
+FOLHA: 23
+IDENT.: 036323
+RESPOSTAS CORRETAS: 6
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  A
+4.  C
+5.  B
+6.  B
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 24
+IDENT.: 036324
+RESPOSTAS CORRETAS: 3
+
+Respostas (+ indica resposta correta):
+
+1.  E
+2.  B
+3.  D
+4.  E +
+5.  B
+6.  C
+7.  A
+8.  E
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 25
+IDENT.: 036325
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 26
+IDENT.: 036326
+RESPOSTAS CORRETAS: 0
+
+Respostas (+ indica resposta correta):
+
+1.  Resposta inválida
+2.  Resposta inválida
+3.  Resposta inválida
+4.  Resposta inválida
+5.  Resposta inválida
+6.  Resposta inválida
+7.  Resposta inválida
+8.  Resposta inválida
+9.  Resposta inválida
+10. Resposta inválida
+
+--------------------------
+
+FOLHA: 27
+IDENT.: 036327
+RESPOSTAS CORRETAS: 9
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  B
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 28
+IDENT.: 036328
+RESPOSTAS CORRETAS: 8
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  E
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. C
+
+--------------------------
+
+FOLHA: 29
+IDENT.: 036329
+RESPOSTAS CORRETAS: 10
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  E +
+5.  A +
+6.  D +
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------
+
+FOLHA: 30
+IDENT.: 036330
+RESPOSTAS CORRETAS: 8
+
+Respostas (+ indica resposta correta):
+
+1.  C +
+2.  D +
+3.  B +
+4.  B
+5.  A +
+6.  E
+7.  C +
+8.  A +
+9.  C +
+10. A +
+
+--------------------------

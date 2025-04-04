@@ -1,0 +1,60 @@
+-- REMOVENDO A TABELA SE ELA JÁ EXISTIR
+DROP TABLE IF EXISTS educacao.GES_TURMA;
+
+-- CRIANDO A TABELA DE GESTÃO ESCOLAR
+CREATE TABLE educacao.GES_TURMA
+(
+    id serial NOT NULL UNIQUE	, -- DEFININDO A PRIMARY KEY
+    tdc_escola_id integer NOT NULL,
+    ges_serie_id integer NOT NULL,
+	letra_turma varchar(1) NOT NULL,
+    CONSTRAINT pk_ges_turma_id PRIMARY KEY (id),
+    CONSTRAINT "FK_GES_TURMA_TDC_ESCOLA_ID" FOREIGN KEY (tdc_escola_id)
+        REFERENCES educacao.tdc_escola (id) MATCH SIMPLE
+        ON UPDATE RESTRICT
+        ON DELETE RESTRICT,
+    CONSTRAINT "FK_GES_TURMA_GES_SERIE_ID" FOREIGN KEY (ges_serie_id)
+        REFERENCES educacao.ges_serie (id) MATCH SIMPLE
+        ON UPDATE RESTRICT
+        ON DELETE RESTRICT
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS educacao.GES_TURMA
+    OWNER to postgres;
+
+COMMENT ON TABLE educacao.GES_TURMA
+    IS 'Tabela Gestão Escolar - Info turmas';
+	
+	
+	-- INSERINDO O REGISTRO DE TURMAS
+
+	-- Criação de uma tabela temporária para armazenar as combinações de escola e série 
+	WITH 
+	escolas_series AS ( 
+	  SELECT esc.id AS escola_id, 
+			 ser.id AS serie_id 
+		FROM educacao.TDC_ESCOLA esc 
+		CROSS JOIN educacao.GES_SERIE ser ), 
+
+	-- Gerar turmas (A, B, C) para cada combinação de escola e série 
+	turmas_geradas AS ( 
+	  SELECT ROW_NUMBER() OVER () AS id, -- Gera um ID único para cada turma 
+			 es.escola_id, 
+			 es.serie_id, 
+			 letra_turma 
+		FROM escolas_series es 
+		CROSS JOIN 
+			UNNEST(ARRAY['A', 'B', 'C']) AS letra_turma 
+			) 
+
+-- Inserir os dados gerados na tabela GES_TURMA 
+INSERT INTO educacao.GES_TURMA (id, tdc_escola_id, ges_serie_id, letra_turma) 
+	SELECT id, 
+		   escola_id, 
+		   serie_id, 
+		   letra_turma 
+	  FROM turmas_geradas; 
+
+ 
